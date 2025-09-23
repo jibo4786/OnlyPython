@@ -1,0 +1,2 @@
+[2025-09-22 20:33:04]Toto je první zpráva pro log
+[2025-09-22 20:34:34]Toto je další zpráva pro log soubor - tedy druhá zpráva
